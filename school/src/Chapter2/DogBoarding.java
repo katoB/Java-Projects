@@ -29,6 +29,7 @@ public class DogBoarding
 		System.out.println("Your dog weighs " +weight+ " lbs, and you plan on boarding for " +days+ 
 							" days. Total price will come up to $" +totalPrice);
 		
+		System.out.println("Hello there");
 		
 	}
 

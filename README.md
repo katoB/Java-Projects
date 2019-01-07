@@ -1,1 +1,1 @@
-# Welcome to Kato's Java Archive
+# Welcome to Kato's Java Archive. Past code with projects
